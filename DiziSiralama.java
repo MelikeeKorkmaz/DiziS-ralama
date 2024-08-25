@@ -3,7 +3,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class DiziSıralama {
+public class DiziSiralama {
     public static void main(String[] args) {
         int n;
         Scanner input = new Scanner(System.in);
